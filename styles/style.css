@@ -106,7 +106,7 @@ body {
     border-radius: 8px;
     font-size: 1.5rem;
     font-weight: 600;
-    padding: 21.5px 0;
+    padding: 21.5px 20px;
     text-decoration: none;
     color: var(--cor-secundaria); 
     font-family: var(--font-secundaria);
